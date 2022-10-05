@@ -18,5 +18,5 @@ Clone on your local machine
 ### Commit your changes.
 `git commit -m "Relevant message"`
 ### Then push
-`git push `
+`git push `<br>
 Create a new pull request from your forked repository, and you are DONE!
