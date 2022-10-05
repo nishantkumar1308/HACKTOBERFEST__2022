@@ -1,4 +1,4 @@
-##                                        Hacktober-Fest-2022
+##                                                            Hacktober-Fest-2022
                                                 This repo is mainly being made for Hacktoberfest 2022.
 
 # -HACKTOBERFEST__2022
@@ -101,3 +101,8 @@ Publishing others' private information, such as a physical or electronic address
 
 ## 🎯Objectives
 - The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
+
+All the very best to everyone!!!
+Keep coding and lets contribute to open source and lets build a community where everyone helps other to learn and devlope their skills.
+
+## www.hacktoberfest.com/
