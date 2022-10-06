@@ -6,6 +6,7 @@
  Problem list:
 
 [
-
-
+Name:Sourabh Kumar Singh
+Github id:https://github.com/Sourz-101
+Problem List:Linked List
 ]
