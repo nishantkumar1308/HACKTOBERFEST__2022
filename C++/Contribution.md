@@ -62,6 +62,18 @@ Problem List:
 10. Linked List Random Node.
 
 =======
+[
+    Name:Rushikesh Dhurat
+    Github id:https://github.com/drushi007
+    Problem list: Linked List
+        1. Detect if linked list has a cycle
+        2.Find and Remove Kth element from end of linked list
+        3. Find intersection of two linked list
+        4. Find Middle Element of List
+        5. Find Node where cycle begins
+]
+=======
+
 Name:Mohd Aqib
 Github id:https://github.com/anmolali5811
 Problem list: 1. dfs 2. bfs 3. Topological Sort DFS 4. Dijkstra’s Algorithm 5. Bellman-Ford Algo
