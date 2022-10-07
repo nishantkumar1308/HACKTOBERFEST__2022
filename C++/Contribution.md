@@ -11,6 +11,14 @@ Name: Sagar Arora
 Github Id: https://github.com/Sagar-Arora-eng
 Problem List:
 
+<<<<<<< HEAD
+        1. Reverse a link list.
+        2. Merge K sorted linked lists.
+        3. Insertion Sort list.
+        4. Odd Even Linked list.
+        5. Linked List Random Node.
+]
+=======
 1. Problem to find length of Longest Increasing subsequence (LIS)
 2. Unique Sum Path in a 2-D grid
 3. Maximum profit by buying and selling a share at most k times
@@ -22,6 +30,7 @@ Problem List:
    Name : Ashish
    Github id: https://github.com/ashish12011046
    Problem list:
+>>>>>>> c41263f117df266de8708f27998205c4a70b55ed
 
 <<<<<<< HEAD
 [
