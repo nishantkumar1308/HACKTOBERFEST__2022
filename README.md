@@ -1,4 +1,4 @@
-##                                        Hacktober-Fest-2022
+##                                        Hacktober-Fest-2022( This repo is Excluded)
                                 This repo is mainly being made for Hacktoberfest 2022.
 
 # -HACKTOBERFEST__2022
