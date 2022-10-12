@@ -1,0 +1,17 @@
+body{
+  background-color: #F4EEFF;
+}
+hr{
+  border-style: none;
+  height: 2px;
+  width: 5%;
+  border-top: dotted 5px #A6B1E1;
+}
+h1{
+  color: #424874;
+  font-family: "Lucida Handwriting", "Courier New",Cursive;
+}
+h3{
+  color: #424874  ;
+  font-family: "Lucida Handwriting", "Courier New",Cursive;
+}

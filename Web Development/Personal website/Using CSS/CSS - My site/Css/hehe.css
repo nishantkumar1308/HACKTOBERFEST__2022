@@ -1,0 +1,27 @@
+.top{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: inline-block;
+  position: absolute;
+  top: 400px;
+  left: 400px;
+}
+.middle{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  display: inline-block;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+.bottom{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  display: inline-block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
