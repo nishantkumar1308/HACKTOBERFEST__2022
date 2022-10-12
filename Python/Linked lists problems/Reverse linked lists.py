@@ -60,4 +60,3 @@ linkedList.head = linkedList.reverse(linkedList.head)
 print("Reversed linked list")
 print(linkedList)
 
-# This code is contributed by Debidutta Rath
