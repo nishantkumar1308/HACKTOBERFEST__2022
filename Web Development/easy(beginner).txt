@@ -1,0 +1,18 @@
+						      ********EXTREME BASIC PROJECT********
+1). One Page Layout.		
+2). Product Landing Page.
+3). Temperature Converter Website.
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+						      ********SOME EASY PROJECTS********
+1). Personal Portofolio Website.
+2). Login Authentication.
+3). Javascript Quiz Game.
+4). To-Do List.
+5). Survey Form.
+6). Search Engine Result Page
+7). A Duplicate GIPHY (Using the GIPHY API).
+8). Background Generator.
+9). Responsive Blog Website.

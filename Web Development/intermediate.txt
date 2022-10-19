@@ -1,0 +1,17 @@
+						   ********INTERMEDIATE PROJECTS********
+1). Building A Full Website using Wordpress.
+2). Making Games using Javascript.(eg. - Snake Game, Tic-Tac-Toe Game etc..)
+3). Student Result Management System.
+4). FuzzyURLs(URL Shortener)
+	Skills to be learned:-
+		a). Python
+		b). Django
+		c). MongoDB
+5). Online Code Editor.
+		Skills to be learned:-
+		a). HTML + CSS
+		b). JQuery
+		c). Website Hosting
+6). Clone of any famous Website.(eg. - Netflix,Amazon,Flipkart,Whatsapp etc..)
+7). Weather Forecasting.
+8). Creating A bot for New Email Alerts.
