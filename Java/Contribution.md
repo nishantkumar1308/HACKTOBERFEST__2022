@@ -29,3 +29,11 @@ Problem List:
 4.  Merge a linked list into another linked list at alternate positions
 5.  Rotate a Linked List
     ]
+[
+Name: Aqsa Khan
+Github Id: https://github.com/aqsak1
+Problem List:
+
+1. Maximum value in an array
+
+]
